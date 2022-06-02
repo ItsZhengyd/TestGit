@@ -12,4 +12,7 @@ public class ListPrint {
     public void zhangyi(){
         System.out.println("zhangyi");
     }
+    public void zhaomengsha(){
+        System.out.println("Let's go!");
+    }
 }
