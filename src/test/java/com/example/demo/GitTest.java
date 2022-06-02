@@ -13,4 +13,7 @@ public class GitTest {
     public void yanghaojie() {
         System.out.println("yanghaojie");
     }
+    public void zhangyi(){
+        System.out.println("zhangyi");
+    }
 }
