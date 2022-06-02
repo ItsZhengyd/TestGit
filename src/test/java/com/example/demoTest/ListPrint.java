@@ -12,4 +12,12 @@ public class ListPrint {
     public void zhangyi(){
         System.out.println("zhangyi");
     }
+    public  void yangahojie(){
+        for(int i = 1; i <= 9; i++) {
+            for(int j = 1; j <= i; j++) {
+                System.out.print(j + "*" + i + "=" + (j * i) + " ");
+            }
+            System.out.println();
+        }
+    }
 }
