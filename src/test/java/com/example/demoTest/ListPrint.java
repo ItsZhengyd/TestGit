@@ -9,4 +9,7 @@ public class ListPrint {
             System.out.println("i = " + i);
         }
     }
+    public void zhangyi(){
+        System.out.println("zhangyi");
+    }
 }
